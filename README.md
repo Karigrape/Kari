@@ -1,1 +1,1 @@
-# Kari
+# School related website. Genius hour
